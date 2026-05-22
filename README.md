@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Md Naushad - AI, Mental Health Monitoring, Deep Learning, and Quantum Computing" />
+  <img src="profile-banner.svg" alt="Md Naushad - AI, Mental Health Monitoring, Deep Learning, and Quantum Computing" />
 </p>
 
 <h1 align="center">Md Naushad</h1>
