@@ -1,0 +1,29 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Md Naushad profile banner</title>
+  <desc id="desc">Professional banner for AI, mental health monitoring, deep learning, and quantum computing research.</desc>
+  <rect width="1200" height="320" fill="#0F172A"/>
+  <rect x="0" y="0" width="1200" height="320" fill="url(#grid)" opacity="0.18"/>
+  <circle cx="1010" cy="90" r="110" fill="#14B8A6" opacity="0.14"/>
+  <circle cx="1080" cy="245" r="150" fill="#38BDF8" opacity="0.12"/>
+  <circle cx="125" cy="240" r="120" fill="#22C55E" opacity="0.10"/>
+  <path d="M820 194C865 124 943 119 986 164C1017 197 1058 203 1100 172" stroke="#5EEAD4" stroke-width="5" stroke-linecap="round" opacity="0.78"/>
+  <path d="M820 226C870 173 928 173 970 216C1004 251 1058 249 1100 216" stroke="#93C5FD" stroke-width="4" stroke-linecap="round" opacity="0.65"/>
+  <g opacity="0.76">
+    <circle cx="820" cy="194" r="7" fill="#A7F3D0"/>
+    <circle cx="895" cy="145" r="7" fill="#A7F3D0"/>
+    <circle cx="986" cy="164" r="7" fill="#A7F3D0"/>
+    <circle cx="1100" cy="172" r="7" fill="#A7F3D0"/>
+    <circle cx="870" cy="173" r="6" fill="#BFDBFE"/>
+    <circle cx="970" cy="216" r="6" fill="#BFDBFE"/>
+    <circle cx="1058" cy="249" r="6" fill="#BFDBFE"/>
+  </g>
+  <text x="72" y="118" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700">Md Naushad</text>
+  <text x="74" y="166" fill="#A7F3D0" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="600">PhD Research Scholar | Mental Health Monitoring Systems</text>
+  <text x="74" y="214" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="23">Machine Learning • Deep Learning • Quantum Computing • Healthcare AI</text>
+  <text x="74" y="257" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="19">Building reproducible AI systems for intelligent health assessment and decision support</text>
+  <defs>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#94A3B8" stroke-width="1"/>
+    </pattern>
+  </defs>
+</svg>
